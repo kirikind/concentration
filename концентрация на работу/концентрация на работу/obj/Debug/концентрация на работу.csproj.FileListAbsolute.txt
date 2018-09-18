@@ -1,0 +1,28 @@
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\bin\Debug\концентрация на работу.exe.config
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\bin\Debug\концентрация на работу.exe
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\bin\Debug\концентрация на работу.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.csprojResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\MainWindow.g.cs
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\App.g.cs
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу_MarkupCompile.cache
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу_MarkupCompile.lref
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\MainWindow.baml
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.g.resources
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\концентрация_на_работу.Properties.Resources.resources
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.csproj.GenerateResource.Cache
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.exe
+c:\users\kirill\documents\visual studio 2015\Projects\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.pdb
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\MainWindow.g.cs
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\App.g.cs
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу_MarkupCompile.cache
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу_MarkupCompile.lref
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\bin\Debug\концентрация на работу.exe.config
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\bin\Debug\концентрация на работу.exe
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\bin\Debug\концентрация на работу.pdb
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\MainWindow.baml
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.g.resources
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\концентрация_на_работу.Properties.Resources.resources
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.exe
+C:\Users\Developer\Desktop\концентрация на работу\концентрация на работу\obj\Debug\концентрация на работу.pdb
